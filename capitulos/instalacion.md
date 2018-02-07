@@ -27,4 +27,4 @@ En **CentOS**, **Fedora** o **RHEL**, puedes usar `yum`:
 $ sudo yum install ruby
 ```
 
-¡Eso es todo! Estás listo para [aprender a programar](/aprende.a.programar/capitulos/numeros.html)
+¡Eso es todo! Estás listo para [aprender a programar](/aprende.a.programar/capitulos/numeros.md)
